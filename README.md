@@ -9,6 +9,21 @@
 
 ## 🛠️ Ferramentas e Tecnologias
 
+<div style="display: inline_block"><br>
+  <img title="Javascript" align="center" alt="cantilho-javascript" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img title="Nodejs" align="center" alt="cantilho-nodejs" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img title="Typescript" align="center" alt="cantilho-typescript" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img title="Vuejs" align="center" alt="cantilho-vuejs" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+  <img title="Nuxtjs" align="center" alt="cantilho-nuxtjs" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg">
+  <img title="HTML 5" align="center" alt="cantilho-HTML5" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img title="CSS 3" align="center" alt="cantilho-CSS3" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img title="PHP" align="center" alt="cantilho-php" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img title="PostGreSQL" align="center" alt="cantilho-PostGreSQL" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+  <img title="MySQL" align="center" alt="cantilho-MySQL" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>  
+  <img title="Github" align="center" alt="cantilho-Git" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+</div>  
+<br>
+
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=beatriz-cantilho&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=beatriz-cantilho&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=beatriz-cantilho&theme=nord_dark) |
 | :-: | :-: | :-: |
