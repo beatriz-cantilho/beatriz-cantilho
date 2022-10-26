@@ -46,7 +46,7 @@
 
 
 <div align="center">
-  <img align="center" src="https://img.freepik.com/vetores-gratis/programador-fazendo-seu-trabalho-apartamento-desenho_52683-14150.jpg?" width="200px">
+  <img align="center" src="https://img.freepik.com/vetores-gratis/programador-masculino-trabalhando-no-computador-na-parede-do-escritorio-com-adesivos-de-lembrete-pendurados-desenvolvedor-criando-nova-codificacao-de-interface-de-software-e-administrador-de-sistema-de-programacao-ou-personagem-de-designer_575670-1159.jpg?w=1060&t=st=1666820614~exp=1666821214~hmac=86e787b094166b46de6d0ce4e30e2031949f1f05ca694e86c11137be3ce559c8" width="200px">
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=beatriz-cantilho&color=blue&style=for-the-badge">
   <img src="https://img.shields.io/github/followers/beatriz-cantilho?style=for-the-badge">
