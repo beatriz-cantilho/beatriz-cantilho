@@ -4,13 +4,14 @@
 
 * 💻 **Desenvolvedora Full-stack**
 * 🎓 Formada em **Segurança da Informação e Línguas Estrangeiras Aplicadas**
-* 💻 Estudando **Vim, Arquitetura de software e boas práticas de software**
+* 💻 Estudando **Arquitetura de software e boas práticas de software**
 
 
 ## 🛠️ Ferramentas e Tecnologias
 
 <div style="display: inline_block"><br>
   <img title="Javascript" align="center" alt="cantilho-javascript" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img title="Python" align="center" alt="cantilho-python" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img title="Nodejs" align="center" alt="cantilho-nodejs" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img title="Typescript" align="center" alt="cantilho-typescript" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img title="Vuejs" align="center" alt="cantilho-vuejs" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
