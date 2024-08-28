@@ -2,7 +2,7 @@
 
 
 * 💻 **Desenvolvedora Full-stack**
-* 🎓 Pós-graduação em Governança de TI**
+* 🎓 **Pós-graduação em Governança de TI**
 * 💻 Estudando **Arquitetura de software e boas práticas de software**
 
 
