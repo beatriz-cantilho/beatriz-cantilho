@@ -1,9 +1,8 @@
 # Olá, seja _bem-vindo(a)_! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
 
 
-
 * 💻 **Desenvolvedora Full-stack**
-* 🎓 Formada em **Segurança da Informação e Línguas Estrangeiras Aplicadas**
+* 🎓 Pós-graduação em Governança de TI**
 * 💻 Estudando **Arquitetura de software e boas práticas de software**
 
 
@@ -40,8 +39,6 @@
   <a href = "mailto:bcantilho@protonmail.com">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div> 
-
-
 
 <div align="center">
   <img align="center" src="https://img.freepik.com/vetores-gratis/programador-masculino-trabalhando-no-computador-na-parede-do-escritorio-com-adesivos-de-lembrete-pendurados-desenvolvedor-criando-nova-codificacao-de-interface-de-software-e-administrador-de-sistema-de-programacao-ou-personagem-de-designer_575670-1159.jpg?w=1060&t=st=1666820614~exp=1666821214~hmac=86e787b094166b46de6d0ce4e30e2031949f1f05ca694e86c11137be3ce559c8" width="200px">
