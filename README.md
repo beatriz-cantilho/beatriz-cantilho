@@ -7,7 +7,7 @@
 
 ## My name is Beatriz Cantilho
 
-### 🛠️ Tools & Tecsh
+### 🛠️ Tools & Techs
 
 (Javascript | Python | AWS | React JS | Vue | PHP | Typescript | SQL | HTML | CSS ) 🚀
 
